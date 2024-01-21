@@ -1,3 +1,3 @@
 # ecommerce_app
 
-A new Flutter project.
+New Flutter project.
